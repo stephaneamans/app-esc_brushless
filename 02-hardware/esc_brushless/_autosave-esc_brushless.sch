@@ -189,7 +189,7 @@ F 3 "" H 10450 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L esc_brushless-rescue:Conn_HE13_1x3_2.54-p_Misc J4
+L esc_brushless-rescue:Conn_HE13_1x3_2.54-p_Misc-esc_brushless-rescue J4
 U 1 1 608FE3F3
 P 1000 3850
 F 0 "J4" H 1100 4100 50  0000 C CNN
@@ -200,7 +200,7 @@ F 3 "" H 900 3850 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L esc_brushless-rescue:Conn_HE13_1x3_2.54-p_Misc J3
+L esc_brushless-rescue:Conn_HE13_1x3_2.54-p_Misc-esc_brushless-rescue J3
 U 1 1 6090DE8C
 P 1000 2900
 F 0 "J3" H 1100 3150 50  0000 C CNN
