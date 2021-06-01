@@ -1,4 +1,4 @@
-update=Thu 06 May 2021 14:58:51 CEST
+update=Fri 28 May 2021 19:03:58 CEST
 version=1
 last_client=kicad
 [general]
@@ -32,7 +32,7 @@ AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
-MinTrackWidth=0.2
+MinTrackWidth=0.25
 MinViaDiameter=0.4
 MinViaDrill=0.3
 MinMicroViaDiameter=0.2
@@ -44,9 +44,9 @@ TrackWidth3=0.762
 TrackWidth4=1.524
 ViaDiameter1=0.8
 ViaDrill1=0.4
-ViaDiameter2=0.6096
-ViaDrill2=0.3048
-dPairWidth1=0.2
+ViaDiameter2=0.6
+ViaDrill2=0.3
+dPairWidth1=0.25
 dPairGap1=0.25
 dPairViaGap1=0.25
 SilkLineWidth=0.15
@@ -78,11 +78,11 @@ Name=Front
 Type=0
 Enabled=1
 [pcbnew/Layer.In1.Cu]
-Name=Power
+Name=GND
 Type=1
 Enabled=1
 [pcbnew/Layer.In2.Cu]
-Name=GND
+Name=Power
 Type=1
 Enabled=1
 [pcbnew/Layer.In3.Cu]
@@ -248,17 +248,17 @@ ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
 uViaDrill=0.1
-dPairWidth=0.2
+dPairWidth=0.25
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=JLCPCB
-Clearance=0.127
-TrackWidth=0.20066
-ViaDiameter=0.6096
-ViaDrill=0.3048
+Clearance=0.2
+TrackWidth=0.25
+ViaDiameter=0.6
+ViaDrill=0.3
 uViaDiameter=0.3
 uViaDrill=0.1
-dPairWidth=0.2
+dPairWidth=0.25
 dPairGap=0.25
 dPairViaGap=0.25
